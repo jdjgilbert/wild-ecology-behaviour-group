@@ -18,5 +18,3 @@ advanced:
 ---
 
 Department of Biological and Marine Science, University of Hull, UK.  
-
-We are interested in arthropod ecology and evolution – particularly reproductive strategies and life histories.  We are especially interested in how animals’ nutritional ecology affects (and is affected by) the evolution of sociality and parental care.
