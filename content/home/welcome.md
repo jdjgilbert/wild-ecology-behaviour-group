@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
+title: "Wild Ecology & Behaviour Group"
+subtitle: "Department of Biological & Marine Sciences, University of Hull"
+hero_media: webgrouplabphoto.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Home page of the WEB group in the Department of Biological and Marine Science at the University of Hull, UK.  We are interested in arthropod ecology and evolution – particularly reproductive strategies and life histories.  We are especially interested in how animals’ nutritional ecology affects (and is affected by) the evolution of sociality and parental care.
