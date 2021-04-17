@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: James Gilbert
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Zoology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Hull
+  url: "https://www.hull.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Blah blah blah
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Behavioural ecology
+- Nutritional ecology
+- Insect ecology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD, Zoology
+    institution: University of Cambridge
+    year: 2007
+  - course: BA (Hons)
+    institution: University of Cambridge
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:james.gilbert@hull.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/james_gilbert
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://scholar.google.com.au/citations?user=FfSty4EAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jdjgilbert
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +57,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +65,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in the evolution of parental care and social behaviour – especially how these crucial animal interactions shape, and are shaped by, animals’ nutritional environments. In the most spectacularly social or parental species (or groups of species), these behaviours are obligatory, which gives little insight into their evolution. Instead my work focuses on evolutionary origins – first using comparative analyses across groups of species that differ in whether they are social or parental; second, using field and lab experiments on species that are behaviourally plastic, i.e. where individuals can choose whether or not to be social or parental. Finally, I am interested in how these factors play out in the wild – and the unforeseen pressures exerted upon parental and social interactions by anthropogenic change.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
